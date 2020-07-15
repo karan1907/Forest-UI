@@ -65,7 +65,7 @@ nav ul li a {
   transform: translateX(0);
 }
 .forest-hero {
-  background: url("/img/forest.jpg");
+  background: url("./img/forest.jpg");
   background-size: cover;
   color: white;
 }
