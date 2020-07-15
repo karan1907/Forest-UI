@@ -3,7 +3,7 @@ body {
 }
 
 .sub-hero {
-  background: url("img/forest-bg-2.jpg");
+  background: url("./img/forest-bg-2.jpg");
   background-size: cover;
   height: 70vh;
 }
